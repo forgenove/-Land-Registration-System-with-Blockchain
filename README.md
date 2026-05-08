@@ -71,7 +71,7 @@ The following installation commands are for Ubuntu 20.04.
 
 Clone the repository:
 
-git clone https://github.com/bhanuprasadChesetti/Land-Registraion-System-with-Blockchain.git
+git clone https://github.com/forgenove/Land-Registraion-System-with-Blockchain.git
 Install Ganache.
 
 Install MongoDB & Run it.
